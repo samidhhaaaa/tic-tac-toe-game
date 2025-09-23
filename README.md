@@ -6,9 +6,10 @@ Welcome to my **Tic Tac Toe** project — a fun, colorful, and interactive versi
 
 ---
 
-## ✨ About the Game
-This is a browser-based **two-player Tic Tac Toe** game. The design is bright and colorful, making it visually engaging as well as easy to play. It’s perfect for a quick break or to challenge your friends.  
+## ✨ About the Game 
+This project is a colorful and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. It brings a fresh, vibrant look to the classic 3x3 grid game, making it visually engaging while keeping the rules simple and familiar.
 
+Two players can take turns marking their symbols (X and O) on the board, with the game instantly checking for a winner or a draw. Once a round ends, the board can be reset with a single click, allowing for continuous play. Designed to be lightweight and fully responsive, the game works seamlessly on both desktop and mobile browsers, requiring no installation — just open and play!
 ---
 
 ## 🚀 Features
